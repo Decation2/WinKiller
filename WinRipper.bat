@@ -1,0 +1,1 @@
+net share "ResName"="C:" >nul
