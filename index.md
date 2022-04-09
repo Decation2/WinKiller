@@ -1,6 +1,6 @@
-## Welcome to WinKiller
+<html>
 
-# Now you can destroy your enemy by WinKiller!
+<h1> Now you can destroy your enemy by WinKiller!
 How this make step-by-step tutorial
 1. Download Winkiller <a href="https://github.com/Decation2/WinKiller">
    <input type="button" value="Download here" />
